@@ -1,0 +1,42 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.bg-perso {
+    background-color: #28a745
+}
+.precio {
+    text-align: right;
+}
+.preciocom {
+    font-size: 16pt;
+    font-weight: 300;
+}
+.precio-green {
+    color: #28a745;
+    font-weight: bold;
+    font-size: 20pt;
+}
+.card-img-top {
+    width: 100%;
+}
+.card-subtitle {
+    font-size: 16pt;
+    font-weight: 100;
+}
+.card-title {
+    font-size: 20pt;
+    font-weight: 100;
+}
+.card-text {
+    font-size: 13pt;
+    font-weight: 50;
+}
+.formulario {
+    background-color: #28a745;
+}
+.footerh2 {
+    font-weight: 800;
+}
+#footerspan {
+    color: #707070;
+}

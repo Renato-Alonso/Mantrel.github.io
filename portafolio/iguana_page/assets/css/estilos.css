@@ -1,0 +1,97 @@
+* {
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    margin: 0%;
+    padding: 0;
+}
+
+body {
+    background-color: black;
+}
+
+header {
+    padding: 7px 0;
+    background-color: rgb(0, 0, 0);
+    height: 59px;
+    line-height: 59px;
+    font-weight: 500;
+    font-size: 50px;
+    font-family: Raleway;
+    letter-spacing: 0px;
+    opacity: 1;
+    text-align: center;
+}
+
+.features {
+    background-color: rgb(46, 34, 37)
+}
+
+.features {
+    text-align: center;
+    padding: 75px 0;
+}
+.feature {
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    padding-top: 50px;
+}
+
+.caracter {
+    font-weight: 300;
+    font-size: 40px;
+    line-height: 47px;
+    letter-spacing: 0px;
+}
+
+.feature i {
+    padding-bottom: 17px;
+    display: block;
+}
+footer {
+    background-color: rgb(46, 34, 37);
+    text-align: center;
+    padding: 39px 299px;
+}
+
+main img {
+    width: 100%;
+    height: 727px;
+}
+
+.elementoprin {
+    margin: 45px 150px 66px;
+    display: flow-root;
+}
+
+.imagenprin img {
+    width: 399px;
+    height: 237px;
+    float: right;
+}
+
+.textoprin {
+   width: 475px;
+   font-weight: 300;
+   font-size: 16px;
+   line-height: 19px;
+   font-family: Raleway;
+   letter-spacing: 0px;
+   opacity: 1;
+   float: left;
+   padding-top: 45px;
+}
+
+.galery {
+    text-align: center;
+}
+
+.galery img {
+    display: inline-block;
+    width: 316px;
+    height: 202px;
+    padding: 73px 8px;
+}
